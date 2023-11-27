@@ -1,9 +1,9 @@
 <template>
     <homepageNav />
     <mainbody />
-    <currentstate />
-    <!-- <roleplaybody />
-    <gangwarsbody /> -->
+    <!-- <currentstate /> -->
+    <roleplaybody />
+    <!-- <gangwarsbody /> -->
     <aboutbody />
     <footerbody />
 </template>
